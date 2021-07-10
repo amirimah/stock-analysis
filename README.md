@@ -6,7 +6,7 @@
 The purpose of this workbook is to analyze a dataset for stock analysis of years 2017 and 2018. On the click of a button, the program asks for the year that the user wants to run the calculations, and returns "Total Daily Volume" as well as "Return" for different stock indices. 
 ## Results
 ### Execution Time
-The refactored code runs faster than the original code. The reason for that is in the original code, two nested loops is used while in the refactored code, no nested for loops is used. Therefore, it runs faster than the original code. The refactored code runs in about 0.27s while the original code runs in about 4s.
+The refactored code runs faster than the original code. The reason for that is in the original code, two nested loops is used while in the refactored code, no nested for loops is used. The refactored code runs in about 0.27 s while the original code runs in about 2.5 s. Therefore, the refactored code runs about 10 times faster than the original code. 
 
 ![Plot1](https://github.com/amirimah/stock-analysis/blob/main/VBA_Challenge_2017.png?raw=true)
 
